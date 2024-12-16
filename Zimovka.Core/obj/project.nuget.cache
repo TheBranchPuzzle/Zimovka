@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zppeQfp5/kiComDU9+i6JtFFV2zRmudpg283b3LSJ/cyr9MpY6XOm9nqOoggOoSnhalf8PCDFfDCN0wM4kh1MQ==",
+  "success": true,
+  "projectFilePath": "/home/mazga/Documents/Projs/Zimovka/Zimovka.Core/Zimovka.csproj",
+  "expectedPackageFiles": [
+    "/home/mazga/.nuget/packages/dapper/2.1.44/dapper.2.1.44.nupkg.sha512",
+    "/home/mazga/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/mazga/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/mazga/.nuget/packages/npgsql/8.0.5/npgsql.8.0.5.nupkg.sha512",
+    "/home/mazga/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
